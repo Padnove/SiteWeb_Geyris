@@ -73,3 +73,60 @@ export default defineConfig([
   },
 ])
 ```
+
+
+# Frontend — React + TypeScript + Vite
+
+Projet frontend développé avec React, TypeScript et Vite.
+
+---
+
+# Installation du projet
+
+## 1. Cloner le repository
+
+```bash
+git clone <URL_DU_REPO>
+```
+
+### 2. Entrer dans le dossier du projet
+
+```bash
+cd <NOM_DU_PROJET>
+```
+
+### 3. Installer les dépendances
+
+```bash
+npm install
+```
+
+---
+
+## Démarrer le projet
+
+```bash
+npm run dev
+```
+
+Le projet sera accessible sur :
+
+```bash
+http://localhost:5173
+```
+
+---
+
+## Scripts disponibles
+
+### Lancer le serveur de développement
+
+```bash
+npm run dev
+```
+
+### Build de production
+
+```bash
+npm run build
+```
